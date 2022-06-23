@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    color: yellow;
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+.O,#Obj,#Accuracy{
+    color: blue;
+}
+#camera{
+    width:350px;
+    height: 300px;
+    border: 2px dashed red;
+}
